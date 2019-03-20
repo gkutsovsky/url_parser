@@ -1,1 +1,1 @@
-Ruby code to a parse any url you give it. 
+``` Ruby code for url parsing ``` 
